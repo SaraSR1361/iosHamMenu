@@ -1,0 +1,16 @@
+PODS:
+  - iosHamMenu (0.1.0)
+
+DEPENDENCIES:
+  - iosHamMenu (from `../`)
+
+EXTERNAL SOURCES:
+  iosHamMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iosHamMenu: 31a444d39449c875b2310cf1dd22b0d2568958b1
+
+PODFILE CHECKSUM: acd0ca9a1c099698be30ba798f1c3613b2c95bf6
+
+COCOAPODS: 1.8.4
