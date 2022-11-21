@@ -1,8 +1,8 @@
 {
   "name": "iosHamMenu",
   "version": "0.1.0",
-  "summary": "A short description of iosHamMenu.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "this is pod library for round the picture in screen",
+  "description": "this is a pod library to round the picture in screen and test build plug in for app-rail",
   "homepage": "https://github.com/SaraSR1361/iosHamMenu",
   "license": {
     "type": "MIT",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/SaraSR1361/iosHamMenu.git",
-    "tag": "0.1.0"
+    "tag": "1.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "14.0"
   },
-  "source_files": "iosHamMenu/Classes/**/*"
+  "source_files": "iosHamMenu/Classes/**/*",
+  "frameworks": "UIKit"
 }

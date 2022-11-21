@@ -8,8 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iosHamMenu'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of iosHamMenu.'
+  s.version          = '1.1.0'
+  s.summary          = 'this is pod library for round the picture in screen'
+  
+  s.swift_version = '5.0'
+  
+
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +21,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'A short description of iosHamMenu.'
+  s.description      = 'this is a pod library to round the picture in screen and test build plug in for app-rail'
   
   s.homepage         = 'https://github.com/SaraSR1361/iosHamMenu'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -27,12 +31,11 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/SaraSR1361/iosHamMenu.git', :tag => "1.1.0"}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '14.0'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'iosHamMenu/Classes/**/*'
   
-  # s.exclude_files = "iosHamMenu/*.plist"
-  
+  #s.exclude_files = 'iosHamMenu/iosHamMenu/*.plist'
   # s.resource_bundles = {
   #  'iosHamMenu' => ['iosHamMenu/Assets/*']
   # }
