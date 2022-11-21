@@ -24,15 +24,17 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'SaraSR1361' => 'sara.salar910@gmail.com' }
   
-  s.source           = { :git => 'https://github.com/SaraSR1361/iosHamMenu.git', :tag => "1.0.0"}
+  s.source           = { :git => 'https://github.com/SaraSR1361/iosHamMenu.git', :tag => "1.1.0"}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '14.0'
 
   s.source_files = 'iosHamMenu/Classes/**/*'
   
+  # s.exclude_files = "iosHamMenu/*.plist"
+  
   # s.resource_bundles = {
-  #   'iosHamMenu' => ['iosHamMenu/Assets/*.png']
+  #  'iosHamMenu' => ['iosHamMenu/Assets/*']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
