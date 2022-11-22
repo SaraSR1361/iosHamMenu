@@ -41,7 +41,7 @@
 		0C6C2CBFF342B6FE4252CF7EE72F18BC /* iosHamMenu.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = iosHamMenu.modulemap; sourceTree = "<group>"; };
 		110869E5481C31F999A48F5BE4F0FEEC /* iosHamMenu-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "iosHamMenu-umbrella.h"; sourceTree = "<group>"; };
 		158955F826E03EBB90604FE7BDEEF75D /* Pods-iosHamMenu_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-iosHamMenu_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		1AE1E442A250AFFF09A186B7B75BE7A8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		1AE1E442A250AFFF09A186B7B75BE7A8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2BDF2530CE6EF126D8C8523A1730E323 /* Pods-iosHamMenu_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-iosHamMenu_Tests-dummy.m"; sourceTree = "<group>"; };
 		2F3D7AC8A35EBA735172FA227D045F88 /* Pods-iosHamMenu_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-iosHamMenu_Tests-umbrella.h"; sourceTree = "<group>"; };
 		30E1758762E1928AF5AE95D4540827B4 /* Pods-iosHamMenu_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-iosHamMenu_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -50,27 +50,27 @@
 		374594D6F3C91A1F67A60259BEA712E8 /* iosHamMenu-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "iosHamMenu-prefix.pch"; sourceTree = "<group>"; };
 		45902A462FBD1A7A73B0EB3218A43AA7 /* Pods-iosHamMenu_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-iosHamMenu_Example-frameworks.sh"; sourceTree = "<group>"; };
 		53CF512F87D93ED3686EECFF2488C355 /* Pods-iosHamMenu_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-iosHamMenu_Example.modulemap"; sourceTree = "<group>"; };
-		675C51727DBD62812BA75FBDCEF79C1F /* Pods_iosHamMenu_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_iosHamMenu_Example.framework; path = "Pods-iosHamMenu_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		675C51727DBD62812BA75FBDCEF79C1F /* Pods_iosHamMenu_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iosHamMenu_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		72F07E362982EA3D9B98DA8FD404F779 /* Pods-iosHamMenu_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-iosHamMenu_Tests.modulemap"; sourceTree = "<group>"; };
 		78C7FEB4F27D2A65362A3DF196D29428 /* Pods-iosHamMenu_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-iosHamMenu_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		8359920DB74A491CF1C304B2DA42AB7A /* iosHamMenu-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "iosHamMenu-Info.plist"; sourceTree = "<group>"; };
-		92865CB78A8CFE5EC73E24439265D812 /* iosHamMenu.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = iosHamMenu.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		92865CB78A8CFE5EC73E24439265D812 /* iosHamMenu.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = iosHamMenu.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9485026B878B0E5C5E347379F6CDBF8F /* Pods-iosHamMenu_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-iosHamMenu_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		9576D1299C7C9C29D133D6E1BA413800 /* Pods-iosHamMenu_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-iosHamMenu_Tests-Info.plist"; sourceTree = "<group>"; };
 		98259B079E2C0CECAE51F63CC8F48830 /* iosHamMenu-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "iosHamMenu-dummy.m"; sourceTree = "<group>"; };
 		9CAB08EE18A6CAF4887354EE03A2380B /* Pods-iosHamMenu_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-iosHamMenu_Example-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AEEF0896F6DD5F2A61FAB14E6F28C747 /* Pods-iosHamMenu_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-iosHamMenu_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BA6B44C883BC8740B921992FA77B6015 /* Pods-iosHamMenu_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-iosHamMenu_Example-dummy.m"; sourceTree = "<group>"; };
 		BA91A8FB7F4D33444B732A08285758C4 /* Pods-iosHamMenu_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-iosHamMenu_Example-umbrella.h"; sourceTree = "<group>"; };
 		BD4524EF26BC41998FF90B3B596377D7 /* Pods-iosHamMenu_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-iosHamMenu_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		D4B94E88B236A0709D42A0D258D79EF6 /* Pods_iosHamMenu_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_iosHamMenu_Tests.framework; path = "Pods-iosHamMenu_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4B94E88B236A0709D42A0D258D79EF6 /* Pods_iosHamMenu_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iosHamMenu_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D56DFF221C7FD116888BBB839D1EF430 /* Pods-iosHamMenu_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-iosHamMenu_Example.release.xcconfig"; sourceTree = "<group>"; };
 		EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		EE4E7DD03F343E001AB0DE9A315F028F /* UIImageViewExtention.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIImageViewExtention.swift; path = iosHamMenu/Classes/UIImageViewExtention.swift; sourceTree = "<group>"; };
-		EE713E78E13961FDB48035F2785094C5 /* iosHamMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = iosHamMenu.framework; path = iosHamMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FF705E1FE7572A0650A651A2F6B6311D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		EE713E78E13961FDB48035F2785094C5 /* iosHamMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = iosHamMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF705E1FE7572A0650A651A2F6B6311D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -318,7 +318,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastUpgradeCheck = 1410;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -412,7 +412,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 33BA44E6BBD508C6B286FD2ADDED43E8 /* iosHamMenu.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -445,7 +444,6 @@
 			baseConfigurationReference = D56DFF221C7FD116888BBB839D1EF430 /* Pods-iosHamMenu_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -479,7 +477,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 33BA44E6BBD508C6B286FD2ADDED43E8 /* iosHamMenu.xcconfig */;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -513,7 +510,6 @@
 			baseConfigurationReference = AEEF0896F6DD5F2A61FAB14E6F28C747 /* Pods-iosHamMenu_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -547,7 +543,6 @@
 			baseConfigurationReference = BD4524EF26BC41998FF90B3B596377D7 /* Pods-iosHamMenu_Example.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -581,7 +576,6 @@
 			baseConfigurationReference = 3192343949F135273A04F900FDB5A616 /* Pods-iosHamMenu_Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -645,6 +639,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -665,8 +660,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -706,6 +700,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;

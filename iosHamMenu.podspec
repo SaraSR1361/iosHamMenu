@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'iosHamMenu'
   s.version          = '1.1.0'
-  s.summary          = 'this is pod library for round the picture in screen'
+  s.summary          = 'this is pod library for rounding the picture in screen'
   
   s.swift_version = '5.0'
   
